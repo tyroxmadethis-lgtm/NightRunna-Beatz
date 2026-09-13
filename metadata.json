@@ -1,0 +1,6 @@
+{
+  "name": "NightRunna",
+  "description": "Beat marketplace and creator studio for music producers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
